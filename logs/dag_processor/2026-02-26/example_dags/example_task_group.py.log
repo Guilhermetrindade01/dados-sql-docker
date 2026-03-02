@@ -1,0 +1,2 @@
+{"timestamp":"2026-02-26T23:53:56.535850Z","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-02-26T23:57:09.643818Z","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
